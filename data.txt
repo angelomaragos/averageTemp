@@ -1,0 +1,18 @@
+The recorded tempratures are: 
+ 33
+ 44
+ 55
+The average temprature is: 44 
+The weather conditions in your area are: 
+ 
+$VAR1 = [
+          ' Temperature: 42° F (5° C) ',
+          ' Dewpoint: Unknown ',
+          ' Barometer: 29.68 ',
+          ' Sea Level Pressure: 29.678 ',
+          ' Trend: No change ',
+          ' Change: 0.0% ',
+          ' Updated: 03:30 UTC ',
+          ' Date: Tue Feb-12-2013 ',
+          ' Includes the Counties: Southern Queens '
+        ];
